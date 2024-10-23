@@ -57,7 +57,7 @@
           }
       },
       "scriptUrl": {
-          "defaultValue": "https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Solutions/Sensor%2520SSH%2520Cowrie/Scripts/script.sh",
+          "defaultValue": "https://raw.githubusercontent.com/swiftsolves-msft/projhpcowrie/refs/heads/main/script.sh",
           "type": "String",
           "metadata": {
               "description": "URL of script to execute"
